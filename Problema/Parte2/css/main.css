@@ -1,0 +1,31 @@
+.uno
+{	
+	float: left;
+	width: 200px;
+	border: 2px solid red; 
+	padding:5px;
+	height: 250px;
+	margin-bottom: 10px;
+}
+
+
+.dos{
+	
+	float: left;
+	width: 200px;
+	border: 2px solid red; 
+	padding:5px;
+	height: 250px;
+	margin-bottom: 10px;
+}
+
+
+.tres{
+
+	float: left;
+	width: 200px;
+	border: 2px solid red; 
+	padding:5px;
+	height: 250px;	
+}
+
